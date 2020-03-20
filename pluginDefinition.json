@@ -1,0 +1,21 @@
+{
+    "identifier": "org.zowe.zlux.test",
+    "apiVersion": "1.0.0",
+    "pluginVersion": "1.1.0",
+    "pluginType": "application",
+    "webContent": {
+      "framework": "react",
+      "launchDefinition": {
+        "pluginShortNameKey": "testapp",
+        "pluginShortNameDefault": "Administration Test",
+        "imageSrc": "assets/icon.png"
+      },
+      "descriptionKey": "SampleReactPluginDescription",
+      "descriptionDefault": "Sample App Showcasing React Adapter",
+      "isSingleWindowApp": true,
+      "defaultWindowStyle": {
+        "width": 900,
+        "height": 420
+      }
+    }
+  }
